@@ -1,0 +1,15 @@
+C:\Users\igorl\OneDrive\Documentos\GitHub\RepositorioC\obj\Debug\net7.0\RepositorioC.csproj.AssemblyReference.cache
+C:\Users\igorl\OneDrive\Documentos\GitHub\RepositorioC\obj\Debug\net7.0\RepositorioC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorl\OneDrive\Documentos\GitHub\RepositorioC\obj\Debug\net7.0\RepositorioC.AssemblyInfoInputs.cache
+C:\Users\igorl\OneDrive\Documentos\GitHub\RepositorioC\obj\Debug\net7.0\RepositorioC.AssemblyInfo.cs
+C:\Users\igorl\OneDrive\Documentos\GitHub\RepositorioC\obj\Debug\net7.0\RepositorioC.csproj.CoreCompileInputs.cache
+C:\Users\igorl\OneDrive\Documentos\GitHub\RepositorioC\bin\Debug\net7.0\RepositorioC.exe
+C:\Users\igorl\OneDrive\Documentos\GitHub\RepositorioC\bin\Debug\net7.0\RepositorioC.deps.json
+C:\Users\igorl\OneDrive\Documentos\GitHub\RepositorioC\bin\Debug\net7.0\RepositorioC.runtimeconfig.json
+C:\Users\igorl\OneDrive\Documentos\GitHub\RepositorioC\bin\Debug\net7.0\RepositorioC.dll
+C:\Users\igorl\OneDrive\Documentos\GitHub\RepositorioC\bin\Debug\net7.0\RepositorioC.pdb
+C:\Users\igorl\OneDrive\Documentos\GitHub\RepositorioC\obj\Debug\net7.0\RepositorioC.dll
+C:\Users\igorl\OneDrive\Documentos\GitHub\RepositorioC\obj\Debug\net7.0\refint\RepositorioC.dll
+C:\Users\igorl\OneDrive\Documentos\GitHub\RepositorioC\obj\Debug\net7.0\RepositorioC.pdb
+C:\Users\igorl\OneDrive\Documentos\GitHub\RepositorioC\obj\Debug\net7.0\RepositorioC.genruntimeconfig.cache
+C:\Users\igorl\OneDrive\Documentos\GitHub\RepositorioC\obj\Debug\net7.0\ref\RepositorioC.dll
