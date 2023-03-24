@@ -1,3 +1,4 @@
+/*
 
 using System;
 
@@ -267,11 +268,9 @@ namespace my_projects
 
 
             } while (x != 0 && y != 0);
-*/
+
         }
     }
 }
 
-
-
-
+*/
