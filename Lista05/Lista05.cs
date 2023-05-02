@@ -1,4 +1,4 @@
-using System;
+/*using System;
 
 
 namespace my_projects
@@ -260,7 +260,7 @@ for (int i = 1, x=0; x <valor.Length; i++, x++){
 //Crie um programa que possa ler vários números (um de cada vez) inteiros de 4 algarismos, e diga se o número
 //apresenta a mesma característica (repare que 3025/100 = 30 com resto 25). O algoritmo termina quando for lido um
 //valor menor que 1000 ou maior que 9999. Utilize apenas operações aritméticas básicas na solução desta questão.
-
+/*
 int num=1001, num1, num2, num3, num4;
 
 for (; num >= 1000 && num <= 9999;){
@@ -285,3 +285,4 @@ for (; num >= 1000 && num <= 9999;){
 
 
         
+*/
