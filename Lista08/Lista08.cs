@@ -1,3 +1,4 @@
+/*
 using System;
 
 namespace lista08
@@ -184,7 +185,7 @@ Random rd=new Random();
             //(b) Imprima a média aritmética dos elementos da segunda e quarta colunas.
             //(c) Substitua os valores da sexta coluna pela soma dos valores das colunas 1 e 2.
             //(d) Imprima a matriz modificada.
-
+/*
             int[,] mat = new int[3, 6];
             Random rd = new Random();
             int soma_coluna_impar = 0, media = 0, soma_coluna_1_2 = 0, cont = 0, qual_coluna_impar = 0;
@@ -256,7 +257,7 @@ Random rd=new Random();
                 }
             }
             for (int i = 0; i < mat.GetLength(0); i++)
-            {//soma_coluna_1_2 para a coluna 6
+            {
                 for (int x = 0; x < mat.GetLength(1); x++)
                 {
                     Console.Write(" " + mat[i, x]);
@@ -267,7 +268,7 @@ Random rd=new Random();
         }
     }
 }
-
+*/
 
 
 
