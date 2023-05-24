@@ -49,7 +49,6 @@ for(int i=0; i< mat.GetLength(0); i++){
     }
 
     for(int i=mat.GetLength(0)-1; i>=0; i--){
-
         for(int j=inicio; j<mat.GetLength(1); j++){
             soma+=mat[i,j];
         }
