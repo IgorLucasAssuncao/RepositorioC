@@ -1,4 +1,4 @@
-using System;
+/*using System;
 
 namespace Lista09
 {
@@ -145,6 +145,7 @@ namespace Lista09
             */
             //7) Crie um programa que mostre todos os caracteres de uma string que são repetidos. Se a string não tiver caracteres
             //repetidos, mostre uma mensagem na tela.
+            /*
             string string1 = "";
             Boolean repetido = false;
             Console.WriteLine("Insira uma frase: ");
@@ -175,4 +176,4 @@ namespace Lista09
     }
 }
 
-
+*/
