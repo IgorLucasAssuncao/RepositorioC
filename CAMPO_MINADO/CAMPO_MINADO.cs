@@ -1,3 +1,4 @@
+/*
 using System;
 
 
@@ -25,7 +26,7 @@ namespace Campo
        
         Data de escrita: 12/06/2023
         Última atualização: 20/06/2023
-        */
+        
         static void Main(string[] args)
         {
             //lê as informacoes da linha,coluna e bomba que estao no arquivo
@@ -259,3 +260,4 @@ namespace Campo
         }
     }
 }
+*/
